@@ -43,6 +43,7 @@ C2 communications to 172.31.45.200:443
 
 Event logs cleared to evade detection
 
+🧩 MITRE ATT&CK Mapping
 | Tactic           | Technique              | ID        |
 | ---------------- | ---------------------- | --------- |
 | Initial Access   | Valid Accounts         | T1078     |
@@ -52,7 +53,7 @@ Event logs cleared to evade detection
 | Lateral Movement | Remote Services        | T1021     |
 | C2               | Exfiltration via Proxy | T1090     |
 
-
+🧪 IOCs
 | Type              | Value            |
 | ----------------- | ---------------- |
 | Malicious Account | voltyp-admin     |
